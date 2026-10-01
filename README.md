@@ -7,6 +7,6 @@
 &nbsp;
 &nbsp;
 
-###### [main](https://specter.atabook.org/)  ⠀  ✚⠀ ⠀[atabook](https://github.com/ghostly-sorrows)  ⠀  ✚⠀ ⠀[direct](https://fluffle.cc/schoolboy)
+###### [main](https://github.com/ghostly-sorrows)  ⠀  ✚⠀ ⠀[atabook](https://specter.atabook.org)  ⠀  ✚⠀ ⠀[direct](https://fluffle.cc/schoolboy)
 
 &nbsp;
