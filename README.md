@@ -1,6 +1,6 @@
 <div align=center>
 
-![](https://komarev.com/ghpvc/?username=schooIboy&color=202382&label=　⋆.˚　&base=14073)
+![](https://komarev.com/ghpvc/?username=schooIboy&color=202382&label=　⋆.˚　&base=10000)
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/13fc0e0b-37a9-4413-845f-0207168f88ca" />
 
